@@ -1,4 +1,4 @@
-# |Projeto-Arduino-cpp-TinkerCard
+# | Projeto-Arduino-cpp-TinkerCard
  
   Nesse projeto, realizei um sensor de movimentos com Arduino, + Cpp. Conectando a Protoboard, a os componentes. Assim, sendo um projeto simples de Arduino.
 
