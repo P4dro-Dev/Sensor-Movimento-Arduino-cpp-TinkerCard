@@ -12,4 +12,4 @@
  
 # 📧| Contato 
 
- Linke
+ Linked
