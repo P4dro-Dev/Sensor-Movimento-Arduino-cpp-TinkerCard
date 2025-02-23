@@ -14,4 +14,4 @@
 
   📱| Linkedlin:
 
-  📩| E-mai
+  📩| E-mail
