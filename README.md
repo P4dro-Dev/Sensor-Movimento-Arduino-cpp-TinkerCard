@@ -12,4 +12,4 @@
  
 # 📧| Contato 
 
-  📱Linkedlin:
+  📱|Linkedlin:
