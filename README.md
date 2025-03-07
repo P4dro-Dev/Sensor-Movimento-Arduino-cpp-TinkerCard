@@ -14,4 +14,4 @@
 
   📱| Linkedlin:
  
-  📩| E-mail: h
+  📩| E-mail: he
