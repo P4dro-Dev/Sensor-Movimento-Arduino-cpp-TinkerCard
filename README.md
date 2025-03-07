@@ -14,4 +14,4 @@
 
   📱| Linkedlin:
  
-  📩| E-mail: henrique.s
+  📩| E-mail: henrique.so
