@@ -14,4 +14,4 @@
 
   📱| Linkedlin:
  
-  📩| E-mail: henrique.sousa62alun
+  📩| E-mail: henrique.sousa62aluno
