@@ -14,4 +14,4 @@
 
   📱| Linkedlin:
  
-  📩| E-mail: henriqu
+  📩| E-mail: henrique
